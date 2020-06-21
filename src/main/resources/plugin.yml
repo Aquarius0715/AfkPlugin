@@ -1,0 +1,6 @@
+name: AfkPlugin
+version: 1.0.0
+main: aquarius0715.afkplugin.AfkPlugin
+api-version: 1.13
+commands:
+  mafk:
